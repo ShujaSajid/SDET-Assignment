@@ -11,4 +11,5 @@
 
 
 ### Problem Statement 1
-problem statement 1 is completed on google docs and i will include the link for the doc file.
+problem statement 1 is completed on google sheets and The public link for the sheet file is.
+https://docs.google.com/spreadsheets/d/1fW51_GEHmR51Ty7AQ5FyLoKlmj6_bHffhcy3mJTqbew/edit?usp=sharing
