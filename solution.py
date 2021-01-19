@@ -24,7 +24,10 @@ def reverse_integer(Number):
         reverse = (reverse *10) + reminder
         Number = Number //10
     return reverse
-
+"""
+The driver code i am using python 3.9.1 
+with also the commented out test case
+"""
 if __name__ == '__main__':
     n = int(input("Enter the value of N :"))
     x = int(input("Enter the value of X :"))
@@ -36,5 +39,21 @@ if __name__ == '__main__':
     reverse = reverse_integer(sumMultiples)
 
     print(f"The reverse of the obtainde {sumMultiples} is {reverse}")
+
+    """
+    TEST CASE
+    n = 10
+    x = 3
+    y = 5
+   
+    sumMultiples= find_sum(n, x, y)
+    
+    print(f"The Sum of multiples of {x} and {y} is {sumMultiples}")
+    reverse = reverse_integer(sumMultiples)
+
+    print(f"The reverse of the obtainde {sumMultiples} is {reverse}")
+
+
+    """
 
 
